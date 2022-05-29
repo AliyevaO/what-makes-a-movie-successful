@@ -35,11 +35,14 @@ After investigating the preview of my data from Part 1, my stakeholder realized 
 
 The Movie Database (TMDB) was identified as a great source of financial data (https://www.themoviedb.org/). I will use an API for extracting the budget, revenue, and MPAA Rating (G/PG/PG-13/R), which is also called "Certification".
 
-## **PART 3 Creating a MySQL database**
+## **PART 3 Exploratory Data Analysis**
+
+
+## **PART 4 Creating a MySQL database**
 
 I will normalize all movie data in a MySQL Database.
 
-## **PART 4 Hypothesis Testing**
+## **PART 5 Hypothesis Testing**
 
 I will then use the MySQL database to answer several hypotheses about movie success.
 
@@ -58,6 +61,5 @@ I will then use the MySQL database to answer several hypotheses about movie succ
 * Null Hypothesis - movies released in 2020 have same revenue than movies released in 2018.
 * Alternate Hypothesis - movies released in 2020 have different revenue than movies released in 2018.
 
-## **PART 5**
 
 ## **PART 6**
