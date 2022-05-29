@@ -36,7 +36,9 @@ After investigating the preview of my data from Part 1, my stakeholder realized 
 The Movie Database (TMDB) was identified as a great source of financial data (https://www.themoviedb.org/). I will use an API for extracting the budget, revenue, and MPAA Rating (G/PG/PG-13/R), which is also called "Certification".
 
 ## **PART 3 Exploratory Data Analysis**
-
+![](Images/Average%20budget%20per%20certification%20category.png)
+![](Images/Average%20revenue%20per%20certification%20category.png)
+![](Images/Number%20of%20movies%20in%20certification%20categories.png)
 
 ## **PART 4 Creating a MySQL database**
 
