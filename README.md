@@ -1,4 +1,6 @@
-# what_makes_a_movie_successful
+# What makes a movie successful
+
+![](Images/Movie-video-editing-logo-design.png.jpeg)
 
 Oleksandra Aliyeva
 
